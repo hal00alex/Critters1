@@ -1,4 +1,3 @@
-# Code Structure 
 ## King/Main/Viewing/Outputing Class 
   - quit
   - show
@@ -25,7 +24,6 @@
   - plant_food 
   - refresh
   
-# Code Plan and Details 
 ## Stage 1 
   - makeCritter acts as constructor with random starting position for all types of critters
   - worldTimeStep acts a trigger for doTimeStep 
